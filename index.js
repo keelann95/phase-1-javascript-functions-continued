@@ -16,9 +16,4 @@ function saturdayFun(activity = "roller-skate") {
     }
   }
   
-  module.exports = {
-    saturdayFun,
-    mondayWork,
-    wrapAdjective
-  };
-  
+ 
